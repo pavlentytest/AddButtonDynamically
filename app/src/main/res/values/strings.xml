@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button1">Ok</string>
+    <string name="button2">Button 2</string>
+    <string name="button3">Button 3</string>
+    <array name="en">
+        <item>asdfasdf</item>
+        <item>adfasdfsd</item>
+    </array>
+</resources>
